@@ -1,5 +1,7 @@
 # Laravel OpenApi Client Generator
 
+`Deprecated, use https://github.com/ensi-platform/laravel-openapi-client-generator instead`
+
 Пакет для Laravel, который генерирует http клиенты к сервису при помощи [OpenApi Generator](https://openapi-generator.tech/).
 На данный момент есть поддержка для двух платформ: PHP и NodeJS.
 
